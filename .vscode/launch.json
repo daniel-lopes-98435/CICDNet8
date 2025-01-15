@@ -17,6 +17,7 @@
         "env": {
           "ASPNETCORE_ENVIRONMENT": "Development"
         },
+       
         "sourceFileMap": {
           "/Views": "${workspaceFolder}/ContactManagement.Api/Views"
         }

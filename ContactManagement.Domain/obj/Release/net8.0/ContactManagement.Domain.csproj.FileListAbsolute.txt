@@ -1,0 +1,26 @@
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/bin/Release/net8.0/ContactManagement.Domain.deps.json
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/bin/Release/net8.0/ContactManagement.Domain.dll
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/bin/Release/net8.0/ContactManagement.Domain.pdb
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.csproj.AssemblyReference.cache
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.AssemblyInfoInputs.cache
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.AssemblyInfo.cs
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.sourcelink.json
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.dll
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/obj/Release/net8.0/refint/ContactManagement.Domain.dll
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.pdb
+/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/obj/Release/net8.0/ref/ContactManagement.Domain.dll
+/Users/lopes/TesteCIDD/ContactManagement.Domain/bin/Release/net8.0/ContactManagement.Domain.deps.json
+/Users/lopes/TesteCIDD/ContactManagement.Domain/bin/Release/net8.0/ContactManagement.Domain.dll
+/Users/lopes/TesteCIDD/ContactManagement.Domain/bin/Release/net8.0/ContactManagement.Domain.pdb
+/Users/lopes/TesteCIDD/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.csproj.AssemblyReference.cache
+/Users/lopes/TesteCIDD/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lopes/TesteCIDD/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.AssemblyInfoInputs.cache
+/Users/lopes/TesteCIDD/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.AssemblyInfo.cs
+/Users/lopes/TesteCIDD/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/lopes/TesteCIDD/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.sourcelink.json
+/Users/lopes/TesteCIDD/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.dll
+/Users/lopes/TesteCIDD/ContactManagement.Domain/obj/Release/net8.0/refint/ContactManagement.Domain.dll
+/Users/lopes/TesteCIDD/ContactManagement.Domain/obj/Release/net8.0/ContactManagement.Domain.pdb
+/Users/lopes/TesteCIDD/ContactManagement.Domain/obj/Release/net8.0/ref/ContactManagement.Domain.dll

@@ -1,0 +1,6 @@
+[15/01/2025 19:39:29] - Execution Log for Information: UsingProfileAsKeyRepository User profile is available. Using '/Users/lopes/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+[15/01/2025 19:39:29] - Execution Log for Information: ListeningOnAddress Now listening on: http://localhost:5000
+[15/01/2025 19:39:29] - Execution Log for Information: 0 Application started. Press Ctrl+C to shut down.
+[15/01/2025 19:39:29] - Execution Log for Information: 0 Hosting environment: Production
+[15/01/2025 19:39:29] - Execution Log for Information: 0 Content root path: /Users/lopes/TesteCIDD
+[15/01/2025 19:41:54] - Execution Log for Information: 0 Application is shutting down...

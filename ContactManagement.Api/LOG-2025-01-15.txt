@@ -1,0 +1,40 @@
+[15/01/2025 07:42:01] - Execution Log for Information: 0 Application is shutting down...
+[15/01/2025 18:29:04] - Execution Log for Information: ListeningOnAddress Now listening on: https://localhost:7203
+[15/01/2025 18:29:04] - Execution Log for Information: ListeningOnAddress Now listening on: http://localhost:5232
+[15/01/2025 18:29:04] - Execution Log for Information: 0 Application started. Press Ctrl+C to shut down.
+[15/01/2025 18:29:04] - Execution Log for Information: 0 Hosting environment: Development
+[15/01/2025 18:29:04] - Execution Log for Information: 0 Content root path: /Users/lopes/TesteCIDD/ContactManagement.Api
+[15/01/2025 19:19:14] - Execution Log for Information: ListeningOnAddress Now listening on: https://localhost:7203
+[15/01/2025 19:19:14] - Execution Log for Information: ListeningOnAddress Now listening on: http://localhost:5232
+[15/01/2025 19:19:14] - Execution Log for Information: 0 Application started. Press Ctrl+C to shut down.
+[15/01/2025 19:19:14] - Execution Log for Information: 0 Hosting environment: Development
+[15/01/2025 19:19:14] - Execution Log for Information: 0 Content root path: /Users/lopes/TesteCIDD/ContactManagement.Api
+[15/01/2025 19:24:47] - Execution Log for Information: ListeningOnAddress Now listening on: https://localhost:7203
+[15/01/2025 19:24:47] - Execution Log for Information: ListeningOnAddress Now listening on: http://localhost:5232
+[15/01/2025 19:24:47] - Execution Log for Information: 0 Application started. Press Ctrl+C to shut down.
+[15/01/2025 19:24:47] - Execution Log for Information: 0 Hosting environment: Development
+[15/01/2025 19:24:47] - Execution Log for Information: 0 Content root path: /Users/lopes/TesteCIDD/ContactManagement.Api
+[15/01/2025 19:25:00] - Execution Log for Information: ListeningOnAddress Now listening on: https://localhost:7203
+[15/01/2025 19:25:00] - Execution Log for Information: ListeningOnAddress Now listening on: http://localhost:5232
+[15/01/2025 19:25:00] - Execution Log for Information: 0 Application started. Press Ctrl+C to shut down.
+[15/01/2025 19:25:00] - Execution Log for Information: 0 Hosting environment: Development
+[15/01/2025 19:25:00] - Execution Log for Information: 0 Content root path: /Users/lopes/TesteCIDD/ContactManagement.Api
+[15/01/2025 19:30:11] - Execution Log for Information: ListeningOnAddress Now listening on: http://localhost:5232
+[15/01/2025 19:30:11] - Execution Log for Information: 0 Application started. Press Ctrl+C to shut down.
+[15/01/2025 19:30:11] - Execution Log for Information: 0 Hosting environment: Development
+[15/01/2025 19:30:11] - Execution Log for Information: 0 Content root path: /Users/lopes/TesteCIDD/ContactManagement.Api
+[15/01/2025 19:34:02] - Execution Log for Information: 0 Application is shutting down...
+[15/01/2025 19:34:53] - Execution Log for Information: ListeningOnAddress Now listening on: http://localhost:5232
+[15/01/2025 19:34:53] - Execution Log for Information: 0 Application started. Press Ctrl+C to shut down.
+[15/01/2025 19:34:53] - Execution Log for Information: 0 Hosting environment: Development
+[15/01/2025 19:34:53] - Execution Log for Information: 0 Content root path: /Users/lopes/TesteCIDD/ContactManagement.Api
+[15/01/2025 19:34:59] - Execution Log for Information: 0 Application is shutting down...
+[15/01/2025 19:42:10] - Execution Log for Information: ListeningOnAddress Now listening on: http://localhost:5232
+[15/01/2025 19:42:10] - Execution Log for Information: 0 Application started. Press Ctrl+C to shut down.
+[15/01/2025 19:42:10] - Execution Log for Information: 0 Hosting environment: Development
+[15/01/2025 19:42:10] - Execution Log for Information: 0 Content root path: /Users/lopes/TesteCIDD/ContactManagement.Api
+[15/01/2025 19:44:06] - Execution Log for Information: 0 Application is shutting down...
+[15/01/2025 19:45:22] - Execution Log for Information: ListeningOnAddress Now listening on: http://localhost:5232
+[15/01/2025 19:45:22] - Execution Log for Information: 0 Application started. Press Ctrl+C to shut down.
+[15/01/2025 19:45:22] - Execution Log for Information: 0 Hosting environment: Development
+[15/01/2025 19:45:22] - Execution Log for Information: 0 Content root path: /Users/lopes/TesteCIDD/ContactManagement.Api

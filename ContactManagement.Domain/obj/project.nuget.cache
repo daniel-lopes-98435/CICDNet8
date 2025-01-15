@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "woGq3y+W2cg=",
+  "success": true,
+  "projectFilePath": "/Users/lopes/TesteCIDD/ContactManagement.Domain/ContactManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/lopes/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/lopes/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/lopes/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/lopes/.nuget/packages/identitymodel/7.0.0/identitymodel.7.0.0.nupkg.sha512",
+    "/Users/lopes/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/lopes/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/Users/lopes/.nuget/packages/swashbuckle.aspnetcore.annotations/6.9.0/swashbuckle.aspnetcore.annotations.6.9.0.nupkg.sha512",
+    "/Users/lopes/.nuget/packages/swashbuckle.aspnetcore.swagger/6.9.0/swashbuckle.aspnetcore.swagger.6.9.0.nupkg.sha512",
+    "/Users/lopes/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.9.0/swashbuckle.aspnetcore.swaggergen.6.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -18,16 +18,14 @@ jobs:
       
       - name: List directory structure (Linux/macOS)
         run: tree -L 3
-
       
+      - name: Set up .NET Core
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.x'
 
-#      - name: Set up .NET Core
-#        uses: actions/setup-dotnet@v4
-#        with:
-#          dotnet-version: '8.x'
-
-#      - name: Build with dotnet
-#        run: dotnet build --configuration Release
+      - name: Build with dotnet
+        run: dotnet build SampleApi/SampleApi.csproj --configuration Release
 
 #      - name: dotnet publish
 #        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp

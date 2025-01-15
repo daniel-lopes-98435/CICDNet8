@@ -24,20 +24,17 @@ jobs:
         with:
           dotnet-version: '8.x'
 
-      - name: Restore Dependencies
-        run: dotnet SampleApi/SampleApi.csproj restore
-
       - name: Build with dotnet
         run: dotnet build SampleApi/SampleApi.csproj --configuration Release
 
-#      - name: dotnet publish
-#        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
+      - name: dotnet publish
+        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
 
-#      - name: Upload artifact for deployment job
-#        uses: actions/upload-artifact@v4
-#        with:
-#          name: .net-app
-#          path: ${{env.DOTNET_ROOT}}/myapp
+      - name: Upload artifact for deployment job
+        uses: actions/upload-artifact@v4
+        with:
+          name: .net-app
+          path: ${{env.DOTNET_ROOT}}/myapp
 
 #  deploy:
 #    runs-on: ubuntu-latest

@@ -58,11 +58,11 @@ jobs:
           tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_B8CB049955EA4ED69A3845E94512C122 }}
           subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_E61332D139904D9EB01E4B1ABA933F31 }}
 
-#      - name: Deploy to Azure Web App
-#        id: deploy-to-webapp
-#        uses: azure/webapps-deploy@v3
-#        with:
-#          app-name: 'contact-api'
-#          slot-name: 'Production'
-#          package: .
+      - name: Deploy to Azure Web App
+        id: deploy-to-webapp
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: 'contact-api'
+          slot-name: 'Production'
+          package: .
           

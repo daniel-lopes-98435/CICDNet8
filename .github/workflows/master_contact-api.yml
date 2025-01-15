@@ -25,7 +25,7 @@ jobs:
           dotnet-version: '8.x'
 
       - name: Build with dotnet
-        run: dotnet build ContactManagement.Api/ContactManagement.Api.csproj --configuration Release
+        run: dotnet build ContactManagement.sln --configuration Release
 
       - name: dotnet publish
         run: dotnet publish ContactManagement.Api/ContactManagement.Api.csproj -c Release -o ${{env.DOTNET_ROOT}}/myapp

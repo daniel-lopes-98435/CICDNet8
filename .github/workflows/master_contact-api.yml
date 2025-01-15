@@ -25,7 +25,7 @@ jobs:
           dotnet-version: '8.x'
 
       - name: Restore Dependencies
-        run: dotnet restore
+        run: dotnet SampleApi/SampleApi.csproj restore
 
       - name: Build with dotnet
         run: dotnet build SampleApi/SampleApi.csproj --configuration Release

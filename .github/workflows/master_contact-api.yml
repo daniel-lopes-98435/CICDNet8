@@ -16,11 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: List files in working directory
-        run: ls -la
+      - name: List directory structure (Linux/macOS)
+        run: tree -L 3
 
-      - name: List files in working directory (Linux)
-        run: ls -la
       
 
 #      - name: Set up .NET Core

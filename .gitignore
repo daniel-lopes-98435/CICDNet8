@@ -3,6 +3,10 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+# Ignorar pastas geradas durante os testes
+**/bin/Debug/
+**/bin/Release/
+
 # Ignore bin/ e obj/ para todos os projetos dentro do repositório
 **/bin/
 **/obj/

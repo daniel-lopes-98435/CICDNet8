@@ -3,6 +3,7 @@ using ContactManagement.Api.Middlewares;
 using ContactManagement.Application.Dtos;
 using ContactManagement.Application.Validators;
 using FluentValidation.AspNetCore;
+using Prometheus;
 using System.Net;
 using System.Text.Json;
 
@@ -50,6 +51,7 @@ public static class ApiConfig
         app.UseAuthentication();
         app.UseAuthorization();
         app.MapControllers();
+        app.MapMetrics();
     }
 
     private static void UseCustomStatusCodePages(this WebApplication app)

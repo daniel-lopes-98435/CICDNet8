@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Tests/ContactManagement.Tests.csproj": {}
+    "/Users/lopes/TesteCIDD/ContactManagement.Tests/ContactManagement.Tests.csproj": {}
   },
   "projects": {
-    "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Api/ContactManagement.Api.csproj": {
+    "/Users/lopes/TesteCIDD/ContactManagement.Api/ContactManagement.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Api/ContactManagement.Api.csproj",
+        "projectUniqueName": "/Users/lopes/TesteCIDD/ContactManagement.Api/ContactManagement.Api.csproj",
         "projectName": "ContactManagement.Api",
-        "projectPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Api/ContactManagement.Api.csproj",
+        "projectPath": "/Users/lopes/TesteCIDD/ContactManagement.Api/ContactManagement.Api.csproj",
         "packagesPath": "/Users/lopes/.nuget/packages/",
-        "outputPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Api/obj/",
+        "outputPath": "/Users/lopes/TesteCIDD/ContactManagement.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lopes/.nuget/NuGet/NuGet.Config"
@@ -26,14 +26,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Application/ContactManagement.Application.csproj": {
-                "projectPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Application/ContactManagement.Application.csproj"
+              "/Users/lopes/TesteCIDD/ContactManagement.Application/ContactManagement.Application.csproj": {
+                "projectPath": "/Users/lopes/TesteCIDD/ContactManagement.Application/ContactManagement.Application.csproj"
               },
-              "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/ContactManagement.Domain.csproj": {
-                "projectPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/ContactManagement.Domain.csproj"
+              "/Users/lopes/TesteCIDD/ContactManagement.Domain/ContactManagement.Domain.csproj": {
+                "projectPath": "/Users/lopes/TesteCIDD/ContactManagement.Domain/ContactManagement.Domain.csproj"
               },
-              "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.InfraStructure/ContactManagement.InfraStructure.csproj": {
-                "projectPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.InfraStructure/ContactManagement.InfraStructure.csproj"
+              "/Users/lopes/TesteCIDD/ContactManagement.InfraStructure/ContactManagement.InfraStructure.csproj": {
+                "projectPath": "/Users/lopes/TesteCIDD/ContactManagement.InfraStructure/ContactManagement.InfraStructure.csproj"
               }
             }
           }
@@ -64,6 +64,10 @@
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.6, )"
+            },
+            "prometheus-net.AspNetCore": {
+              "target": "Package",
+              "version": "[8.2.1, )"
             }
           },
           "imports": [
@@ -89,14 +93,14 @@
         }
       }
     },
-    "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Application/ContactManagement.Application.csproj": {
+    "/Users/lopes/TesteCIDD/ContactManagement.Application/ContactManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Application/ContactManagement.Application.csproj",
+        "projectUniqueName": "/Users/lopes/TesteCIDD/ContactManagement.Application/ContactManagement.Application.csproj",
         "projectName": "ContactManagement.Application",
-        "projectPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Application/ContactManagement.Application.csproj",
+        "projectPath": "/Users/lopes/TesteCIDD/ContactManagement.Application/ContactManagement.Application.csproj",
         "packagesPath": "/Users/lopes/.nuget/packages/",
-        "outputPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Application/obj/",
+        "outputPath": "/Users/lopes/TesteCIDD/ContactManagement.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lopes/.nuget/NuGet/NuGet.Config"
@@ -111,8 +115,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/ContactManagement.Domain.csproj": {
-                "projectPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/ContactManagement.Domain.csproj"
+              "/Users/lopes/TesteCIDD/ContactManagement.Domain/ContactManagement.Domain.csproj": {
+                "projectPath": "/Users/lopes/TesteCIDD/ContactManagement.Domain/ContactManagement.Domain.csproj"
               }
             }
           }
@@ -165,14 +169,14 @@
         }
       }
     },
-    "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/ContactManagement.Domain.csproj": {
+    "/Users/lopes/TesteCIDD/ContactManagement.Domain/ContactManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/ContactManagement.Domain.csproj",
+        "projectUniqueName": "/Users/lopes/TesteCIDD/ContactManagement.Domain/ContactManagement.Domain.csproj",
         "projectName": "ContactManagement.Domain",
-        "projectPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/ContactManagement.Domain.csproj",
+        "projectPath": "/Users/lopes/TesteCIDD/ContactManagement.Domain/ContactManagement.Domain.csproj",
         "packagesPath": "/Users/lopes/.nuget/packages/",
-        "outputPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/obj/",
+        "outputPath": "/Users/lopes/TesteCIDD/ContactManagement.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lopes/.nuget/NuGet/NuGet.Config"
@@ -237,14 +241,14 @@
         }
       }
     },
-    "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.InfraStructure/ContactManagement.InfraStructure.csproj": {
+    "/Users/lopes/TesteCIDD/ContactManagement.InfraStructure/ContactManagement.InfraStructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.InfraStructure/ContactManagement.InfraStructure.csproj",
+        "projectUniqueName": "/Users/lopes/TesteCIDD/ContactManagement.InfraStructure/ContactManagement.InfraStructure.csproj",
         "projectName": "ContactManagement.InfraStructure",
-        "projectPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.InfraStructure/ContactManagement.InfraStructure.csproj",
+        "projectPath": "/Users/lopes/TesteCIDD/ContactManagement.InfraStructure/ContactManagement.InfraStructure.csproj",
         "packagesPath": "/Users/lopes/.nuget/packages/",
-        "outputPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.InfraStructure/obj/",
+        "outputPath": "/Users/lopes/TesteCIDD/ContactManagement.InfraStructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lopes/.nuget/NuGet/NuGet.Config"
@@ -259,8 +263,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/ContactManagement.Domain.csproj": {
-                "projectPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Domain/ContactManagement.Domain.csproj"
+              "/Users/lopes/TesteCIDD/ContactManagement.Domain/ContactManagement.Domain.csproj": {
+                "projectPath": "/Users/lopes/TesteCIDD/ContactManagement.Domain/ContactManagement.Domain.csproj"
               }
             }
           }
@@ -309,14 +313,14 @@
         }
       }
     },
-    "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Tests/ContactManagement.Tests.csproj": {
+    "/Users/lopes/TesteCIDD/ContactManagement.Tests/ContactManagement.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Tests/ContactManagement.Tests.csproj",
+        "projectUniqueName": "/Users/lopes/TesteCIDD/ContactManagement.Tests/ContactManagement.Tests.csproj",
         "projectName": "ContactManagement.Tests",
-        "projectPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Tests/ContactManagement.Tests.csproj",
+        "projectPath": "/Users/lopes/TesteCIDD/ContactManagement.Tests/ContactManagement.Tests.csproj",
         "packagesPath": "/Users/lopes/.nuget/packages/",
-        "outputPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Tests/obj/",
+        "outputPath": "/Users/lopes/TesteCIDD/ContactManagement.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lopes/.nuget/NuGet/NuGet.Config"
@@ -331,8 +335,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Api/ContactManagement.Api.csproj": {
-                "projectPath": "/Users/lopes/FIAP/Fase 2/ContactManagementAPI-CICD/ContactManagement/ContactManagement.Api/ContactManagement.Api.csproj"
+              "/Users/lopes/TesteCIDD/ContactManagement.Api/ContactManagement.Api.csproj": {
+                "projectPath": "/Users/lopes/TesteCIDD/ContactManagement.Api/ContactManagement.Api.csproj"
               }
             }
           }

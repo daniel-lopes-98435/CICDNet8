@@ -3,6 +3,36 @@
 ##
 ## Get latest from `dotnet new gitignore`
 
+# Ignore bin/ e obj/ para todos os projetos dentro do repositório
+**/bin/
+**/obj/
+
+# Ignore arquivos do Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Arquivos de configuração do usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pacotes de NuGet
+.nuget/
+packages/
+
+# Arquivos gerados durante o build
+*.dll
+*.pdb
+*.exe
+*.mdb
+
+
+
+/publish
+
+
 # dotenv files
 .env
 
@@ -482,3 +512,32 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+
+# Ignore bin/ e obj/ para todos os projetos dentro do repositório
+**/bin/
+**/obj/
+
+# Ignore arquivos do Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Arquivos de configuração do usuário
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pacotes de NuGet
+.nuget/
+packages/
+
+# Arquivos gerados durante o build
+*.dll
+*.pdb
+*.exe
+*.mdb
+
+
+

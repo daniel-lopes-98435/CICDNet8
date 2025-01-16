@@ -9,7 +9,8 @@ builder.Services
     .AddIndentity(configuration)
     .ResolveDependencies(configuration)
     .AddSwaggerConfig();
-
+    //.AddOpenTelemetryConfig();
+ 
 builder.AddCustomLogging();
 
 var app = builder.Build();

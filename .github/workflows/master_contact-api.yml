@@ -24,6 +24,9 @@ jobs:
         with:
           dotnet-version: '8.x'
 
+      - name: Run tests
+        run: dotnet test ContactManagement.sln --configuration Release --no-build --verbosity normal
+       
       - name: Build with dotnet
         run: dotnet build ContactManagement.sln --configuration Release
 

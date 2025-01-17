@@ -44,6 +44,9 @@ public static class ApiConfig
             app.UseSwaggerConfig();
         //}
 
+        // Adiciona o middleware para capturar métricas HTTP
+        app.UseHttpMetrics();
+
         app.UseMiddleware<ExceptionMiddleware>();
         app.UseCustomStatusCodePages();
         app.UseHttpsRedirection();

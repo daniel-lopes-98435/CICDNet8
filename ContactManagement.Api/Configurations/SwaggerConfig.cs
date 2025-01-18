@@ -7,7 +7,7 @@ public static class SwaggerConfig
     {
         services.AddSwaggerGen(c =>
         {
-            c.SwaggerDoc("v1", new OpenApiInfo { Title = "Tech Challenge Fase 2", Version = "v1" });
+            c.SwaggerDoc("v1", new OpenApiInfo { Title = "Tech Challenge Fase 2 apresetação", Version = "v1" });
 
             var xmlFile = $"{System.Reflection.Assembly.GetExecutingAssembly().GetName().Name}.xml";
             var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
